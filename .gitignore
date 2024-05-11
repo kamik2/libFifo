@@ -1,0 +1,8 @@
+
+# folders
+cmake*/
+doxygen/output/
+
+# files
+*.xml
+#*.iml
